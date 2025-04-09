@@ -1,6 +1,6 @@
 # Prerequisite
 Make sure you follow instructions for setting up Isaac ROS and the various components necessary.
-We recommend using (`agx-indro-docker`)[https://github.com/noah-curran/agx-indro-docker] to get started.
+We recommend using [`agx-indro-docker`](https://github.com/noah-curran/agx-indro-docker) to get started.
 
 This includes successful installation of:
 - ROS2 Humble
