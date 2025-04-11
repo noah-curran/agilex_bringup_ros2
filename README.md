@@ -13,7 +13,7 @@ This includes successful installation of:
 To build this package run from the workspace directory:
 ```bash
 cd src && git clone https://github.com/noah-curran/agilex_bringup_ros2
-cd .. && colcon build --packages-select agilex_robot_bringup
+cd .. && colcon build --packages-select agilex_bringup_ros2
 source install/setup.bash
-ros2 launch agilex_robot_bringup agilex.launch.py
+ros2 launch agilex_bringup_ros2 agilex.launch.py
 ```
